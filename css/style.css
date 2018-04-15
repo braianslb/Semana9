@@ -1,0 +1,37 @@
+.wrapper {
+	display: flex;
+}
+
+.wrapper div {
+	flex: 1;
+	margin: 20px;
+}
+
+.wrapper div img {
+	padding: 20px;
+	width: 100%;
+	margin: 10px;	
+}
+
+.wrapper p {
+	color: black;
+	text-align: left;
+}
+
+.wrapper h1 {
+	font-size: 30px;
+	color: black;
+}
+
+.texto {
+	padding: 40px;
+	margin: 40px;
+}
+
+
+
+
+
+
+
+
